@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "user-enquiry-crud",
   "private": true,
   "version": "0.0.0",
@@ -32,5 +33,23 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.10",
     "vite": "^6.3.5"
+=======
+  "name": "backendcrud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0"
+>>>>>>> 09d5a52263893da7913d4b4a9883021fe9c51c81
   }
 }
